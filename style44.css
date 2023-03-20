@@ -1,0 +1,234 @@
+.head{
+    border: none;
+    background-image: linear-gradient(to right, red,green,yellow);
+    text-decoration: underline; 
+    text-align: center;
+    height: 30px;
+    }
+    .box1{
+        border: 3px solid red;
+        border-radius: 20px;
+        list-style: disc;
+        position: absolute;
+        top: 70px;
+        left: 300px;
+        width: 800px;
+        height: 70px;
+        text-align: center;
+        background-color: rgb(89, 197, 247);
+        
+    }
+    .list{
+        position: absolute;
+        left: 270px;
+    }
+    
+    .flex{
+        border: 2px solid green;
+        border-radius: 20px;
+        height: 120px;
+        width: 1340px;
+        position: absolute;
+        top: 170px;
+        background-color: rgb(7, 221, 210);
+    }
+    .flex1{
+        display: flex;
+        border: 2px solid green;
+        justify-content: center;
+        width: 400px;
+        height: 60px;
+        margin: 20px;
+        position: absolute;
+        bottom: 38px;
+        background-color:  rgb(21, 247, 235);
+    }
+    .flex2{
+        display: flex;
+        border: 2px solid green;
+        justify-content: center;
+        width: 400px;
+        height: 60px;
+        margin: 40px;
+        position: absolute;    
+        left: 430px;
+        bottom: 18px;
+        background-color: rgb(21, 247, 235);
+    
+    }
+    .flex3{
+        display: flex;
+        border: 2px solid green;
+        justify-content: right;
+        width: 400px;
+        height: 60px;
+        margin: 40px;
+        position: absolute;
+        left: 880px;
+        bottom: 18px;
+        background-color: rgb(21, 247, 235);
+    
+    }
+    .flex4{
+        display: flex;
+        border: 2px solid green;
+        justify-content: center;
+        width: 400px;
+        height: 60px;
+        position: absolute;
+        top: 59px;
+        left: 470px;
+        background-color: rgb(21, 247, 235);
+    
+    }
+    .head1{
+        border: none;
+        background-image: linear-gradient(to right, red,yellow, red);
+        text-decoration: underline red; 
+        text-align: center;
+        height: 30px;
+        position: absolute;
+        top: 310px;
+        width: 100%; 
+        font-size: 10px;
+        }
+    .flex5{
+        border: 2px solid green;
+        background-image: radial-gradient(rgb(50, 50, 243) 30%,rgb(4, 221, 4));
+        position: absolute;
+        top: 350px;
+        width: 100%;
+        height: 200px;
+    }
+    .flex6{
+        display: flex;
+        border: 2px solid rgb(179, 3, 3);
+        justify-content: center;
+        border-radius: 10px;
+        width: 200px;
+        margin: 40px;
+        text-decoration: underline rgb(179, 3, 3);
+        background-color: rgb(226, 226, 5);
+    }
+    .flex7{
+        display: flex;
+        border: 2px solid rgb(179, 3, 3);
+        justify-content: center;
+        border-radius: 10px;
+        width: 200px;
+        margin: 40px;
+        position: absolute;
+        left: 350px; 
+        bottom: 29px;
+        text-decoration: underline rgb(179, 3, 3);
+        background-color: rgb(226, 226, 5);
+    }
+    .flex8{
+        display: flex;
+        border: 2px solid rgb(179, 3, 3);
+        justify-content: center;
+        border-radius: 10px;
+        width: 200px;
+        margin: 40px;
+        bottom: 29px;
+        position: absolute;
+        left: 700px;
+        text-decoration: underline rgb(179, 3, 3);
+        background-color: rgb(226, 226, 5);
+    }
+    .flex9{
+        display: flex;
+        border: 2px solid rgb(179, 3, 3);
+        justify-content: center;
+        border-radius: 10px;
+        width: 200px;
+        margin: 40px;
+        bottom: 29px;
+        position: absolute;
+        left: 1000px;
+        text-decoration: underline rgb(179, 3, 3);
+        background-color: rgb(226, 226, 5);
+    }
+    .head3{
+        border: none;
+        color: white;
+        background-color: rgb(255, 1, 99);
+        position: absolute;
+        top: 570px;
+        width: 100%;
+        height: 30px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .box2{
+        color: white;
+        background-color: rgb(104, 238, 104);
+        position: absolute;
+        top: 620px;
+        width: 400px;
+        height: 40px;
+        font-size: 30px;
+        text-align: center;
+        padding: 0px 0px 55px 0px;
+       
+    }
+    .box3{
+        color: white;
+        background-color: rgb(132, 132, 248);
+        position: absolute;
+        top: 620px;
+        left: 420px;
+        width: 400px;
+        height: 40px;
+        font-size: 30px;
+        text-align: left;
+        padding: 0px 0px 55px 0px;
+        
+       
+    }
+    .box4{
+        color: white;
+        background-color: rgb(89, 89, 245);
+        position: absolute;
+        top: 620px;
+        left: 830px;
+        width: 400px;
+        height: 40px;
+        font-size: 20px;
+        text-align: left;
+        padding: 0px 0px 55px 0px;
+    }
+    .box5{
+        color: white;
+        background-color: rgb(252, 144, 67);
+        position: absolute;
+        top: 730px;
+        width: 1222px;
+        height: 70px;
+        font-size: 20px;
+        text-align: justify;
+        padding: 0px 0px 55px 0px;    
+    }
+    .head4{
+        color: black;
+        background-color: rgb(51, 239, 245);
+        position: absolute;
+        top: 870px;
+        text-align: center;
+        width: 100%;
+        border: 1px solid rgb(214, 211, 211);
+        font-size: 20px;
+    }
+    .side{
+        position: absolute;
+        top: 620px;
+        width: 100px;
+        height: 235px;
+        left: 1240px;
+        color: white;
+        border: none;
+        background-color: rgb(88, 87, 87);
+        text-decoration: underline white; 
+        text-align: left; 
+    }
+    
